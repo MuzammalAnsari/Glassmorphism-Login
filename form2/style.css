@@ -1,0 +1,17 @@
+/* body setup */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 10%;
+}
+
+body{
+    background: url(./pexels-moose-photos-170195-1037992.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
